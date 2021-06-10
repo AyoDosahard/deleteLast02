@@ -1,0 +1,23 @@
+{
+    "name": "Ayo幻雪",
+    "short_name": "ayohx",
+    "version": "1.0.0",
+    "description": "ayo,ayohx,Ayo幻雪, ayohx的博客,Ayo幻雪的博客",
+    "manifest_version": 2,
+    "icons": [
+        {
+            "src": "/icons/apple-touch-icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3eaf7c"
+}
